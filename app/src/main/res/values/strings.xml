@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brain Game</string>
+    <string name="debug">regular</string>
+
+    <string name="banner">ca-app-pub-9105044984189974/1560876680</string>
+    <string name="interstitial">ca-app-pub-9105044984189974/2682386668</string>
+
+</resources>
